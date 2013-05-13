@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="utf-8">
+		<!-- viewport meta to reset iPhone initial scale -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- css3-mediaqueries.js for IE8 or older -->
+		<!--[if lt IE 9]>
+			<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<![endif]-->
 		<title>Tic-Tac-Toe</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
